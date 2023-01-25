@@ -4,7 +4,7 @@ using System.Windows.Forms;
 namespace zrayla_game_5
 {
     
-
+    //
     public partial class Form1 : Form
     {
         string careterName;
